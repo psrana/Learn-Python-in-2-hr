@@ -10,5 +10,5 @@
 - Random Numbers
 - Use of Libraries
 
-## **Python Assingment**
+## **Python Assignment**
 - https://github.com/psrana/Assignment-Python
