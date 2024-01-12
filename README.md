@@ -9,3 +9,6 @@
 - Exception Handaling
 - Random Numbers
 - Use of Libraries
+
+**Python Assingment**
+- https://github.com/psrana/Assignment-Python
